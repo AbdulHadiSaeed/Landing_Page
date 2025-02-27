@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interactive Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Hi, John, how are you?</h1>
+        <p>Now, after this, you will see Abdul Hadi's Digital Portfolio</p>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
