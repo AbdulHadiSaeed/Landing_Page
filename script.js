@@ -2,4 +2,4 @@
 setTimeout(function() {
     // After the wait, redirect to your portfolio website
     window.location.href = "https://aludoors.com.au/"; // Replace with your actual portfolio link
-}, 3000); // 3000 milliseconds = 3 seconds
+}, 16000); // 3000 milliseconds = 3 seconds
